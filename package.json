@@ -1,7 +1,7 @@
 {
   "name": "passport-parse",
-  "version": "0.0.1",
-  "description": "Parse Passport Strategy",
+  "version": "0.0.3",
+  "description": "Passport Strategy for Parse.com",
   "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
@@ -39,15 +39,15 @@
     "proxyquire": "^0.6.0"
   },
   "dependencies": {
-    "parse": "^0.1.2",
+    "parse": "1.2.19",
     "passport": "^0.2.0"
   },
-  "readme": "# Parse Passport Strategy #\n\n[Parse](https://www.parse.com/) is a User Management API,This is an authentication strategy for use with the [Passport](http://passportjs.org/) middleware.  Use it in your application to authenticate Parse accounts via username and password.\n\nWant to use this with Express?  Check out the [Authenticate.me app](https://github.com/malikov/Authenticate.me-client-cordova-ionic)\n\n### Links\n+ [Node.js Quickstart & API Documentation](http://docs.stormpath.com/nodejs/api/home#quickstart) - Get started with Stormpath in an hour!\n+ [Stormpath's site](http://stormpath.com/)\n+ [Stormpath Support](https://support.stormpath.com/home)\n\n### Build Instructions \n\n\n### Contributing\n\nYou can make your own contributions by forking the master branch and sending a pull request. This project is open-source via the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).\n",
+  "readme": "#passport-parse \n \nA passport strategy for those of you out there using [Parse.com](http://parse.com) and nodejs (passport) for authentication :)\n See [Authenticate.me Node server](https://github.com/malikov/Authenticate.me-Node-Server) for an example of how to use the strategy\n## how to use\nInstall the parse module \nnpm install passport-parse\n\n And follow the instruction at [Passport parse github repo](https://github.com/malikov/passport-parse)\n",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/stormpath/passport-parse/issues"
   },
-  "_id": "passport-parse@0.0.1",
-  "_from": "passport-parse@~0.0.1",
-  "_resolved": "https://registry.npmjs.org/passport-parse/-/passport-parse-0.0.1.tgz"
+  "_id": "passport-parse@0.0.3",
+  "_from": "passport-parse@~0.0.3",
+  "_resolved": "https://registry.npmjs.org/passport-parse/-/passport-parse-0.0.3.tgz"
 }
