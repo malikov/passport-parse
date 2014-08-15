@@ -10,10 +10,9 @@ clone this repo and place it in your node_modules folders
 				
 	git clone https://github.com/malikov/passport-parse
 
-Install the parse module (if it isn't installed) and the passport module
+or Install using npm
 
-	npm install parse
-	npm install passport
+	npm install passport-parse
 
 Include both passport and passport-parse
 
