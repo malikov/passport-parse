@@ -8,7 +8,7 @@ See [Authenticate.me Node server](https://github.com/malikov/Authenticate.me-Nod
 ## how to use
 clone this repo and place it in your node_modules folders
 				
-	git clone 
+	git clone https://github.com/malikov/passport-parse
 
 Install the parse module (if it isn't installed) and the passport module
 
