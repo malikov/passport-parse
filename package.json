@@ -1,6 +1,6 @@
 {
   "name": "passport-parse",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Passport Strategy for Parse.com",
   "main": "lib/index.js",
   "scripts": {
@@ -45,9 +45,9 @@
   "readme": "#passport-parse \n \nA passport strategy for those of you out there using [Parse.com](http://parse.com) and nodejs (passport) for authentication :)\n See [Authenticate.me Node server](https://github.com/malikov/Authenticate.me-Node-Server) for an example of how to use the strategy\n## how to use\nInstall the parse module \nnpm install passport-parse\n\n And follow the instruction at [Passport parse github repo](https://github.com/malikov/passport-parse)\n",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/stormpath/passport-parse/issues"
+    "url": "https://github.com/malikov/passport-parse/issues"
   },
-  "_id": "passport-parse@0.0.3",
-  "_from": "passport-parse@~0.0.3",
-  "_resolved": "https://registry.npmjs.org/passport-parse/-/passport-parse-0.0.3.tgz"
+  "_id": "passport-parse@0.0.5",
+  "_from": "passport-parse@~0.0.5",
+  "_resolved": "https://registry.npmjs.org/passport-parse/-/passport-parse-0.0.5.tgz"
 }
