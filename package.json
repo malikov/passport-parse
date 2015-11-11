@@ -39,8 +39,8 @@
     "proxyquire": "^0.6.0"
   },
   "dependencies": {
-    "parse": "1.2.19",
-    "passport": "^0.2.0"
+    "parse": "1.6.8",
+    "passport": "^0.3.0"
   },
   "readme": "#passport-parse \n \nA passport strategy for those of you out there using [Parse.com](http://parse.com) and nodejs (passport) for authentication :)\n See [Authenticate.me Node server](https://github.com/malikov/Authenticate.me-Node-Server) for an example of how to use the strategy\n## how to use\nInstall the parse module \nnpm install passport-parse\n\n And follow the instruction at [Passport parse github repo](https://github.com/malikov/passport-parse)\n",
   "readmeFilename": "README.md",
